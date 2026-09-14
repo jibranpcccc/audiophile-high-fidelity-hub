@@ -1,5 +1,24 @@
 [
   {
+    "id": "audiophile-high-fidelity-hub-reddit-20260914-p1",
+    "title": "r/audiophile High-Fidelity Sound Guild",
+    "platform": "Reddit",
+    "category": "Audiophile Tech",
+    "memberCount": "540,000+ members",
+    "description": "Community dedicated to two-channel hi-fi stereo systems, room acoustic treatment, DAC comparisons, tube amps, and lossless FLAC playback.",
+    "joinUrl": "https://www.reddit.com/r/audiophile/",
+    "tags": [
+      "audiophile",
+      "hi-fi",
+      "sound",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-09-14"
+  },
+  {
     "id": "audiophile-high-fidelity-hub-reddit-20260914-1",
     "title": "r/ChatGPT AI Community",
     "platform": "Reddit",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-09-14"
   },
   {
